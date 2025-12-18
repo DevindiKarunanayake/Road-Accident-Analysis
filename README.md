@@ -17,3 +17,6 @@ This project focuses on analyzing road accident data using Power BI to identify 
 - Interactive Visualizations & Slicers
 
 This is a self-learning academic project created to improve data analytics and visualization skills.
+
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Dashboard accident.png)
